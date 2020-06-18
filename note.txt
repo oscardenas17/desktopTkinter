@@ -1,0 +1,7 @@
+entorno .env 
+
+1. pip install virtualenv
+2. virtualenv venv
+3. activar entrono con: .\venv\Scripts\activate
+--con postgresql ejecutando
+4. pip install psycopg2
